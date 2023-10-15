@@ -1,0 +1,57 @@
+/* Chatbot.css */
+/* Styles for chatbot messages */
+.chatbot-message {
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+  max-width: 80%; /* Limit the message width for readability */
+}
+
+/* Styles for user messages */
+.user-message {
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+  max-width: 80%; /* Limit the message width for readability */
+}
+
+/* Style for chatbot input and user input */
+.user-input {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  max-width: 80%; /* Limit the input width for readability */
+}
+
+/* Style for chatbot header */
+.rsc-header {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Style for chatbot footer */
+.rsc-footer {
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Style for chatbot steps */
+.rsc-os {
+  list-style: none;
+  padding: 0;
+}
+
+/* Style for individual chatbot steps */
+.rsc-step {
+  padding: 5px;
+}
+
+/* Add more styles as needed */
